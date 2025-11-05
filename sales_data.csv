@@ -1,0 +1,6 @@
+datetime,customer,product,quantity,unit_sell_price_cfa,unit_cost_price_cfa,total_cfa,profit_cfa,notes
+bread,2,500.0,1000.0
+biscuits,5,100.0,500.0
+apple,5,200.0,1000.0
+rice,3,400.0,1200.0
+munch it ,5,100.0,500.0
